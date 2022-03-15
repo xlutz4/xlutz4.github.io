@@ -1,0 +1,13 @@
+name = "The One Probe"
+filename = "theoneprobe-1.16-3.1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3665/853/theoneprobe-1.16-3.1.5.jar"
+hash-format = "sha1"
+hash = "d3dca9f86a7a628c27f381713f1877fddff5d784"
+
+[update]
+[update.curseforge]
+file-id = 3665853
+project-id = 245211

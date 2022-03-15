@@ -1,0 +1,13 @@
+name = "Kleine Broetchen"
+author = "LaJe"
+version = "1.1"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1db204740a56c874a78e77616c74bff2c16656071115a4a2a58612fa625962f3"
+
+[versions]
+forge = "36.2.30"
+minecraft = "1.16.5"

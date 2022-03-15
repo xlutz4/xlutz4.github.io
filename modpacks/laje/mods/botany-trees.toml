@@ -1,0 +1,13 @@
+name = "Botany Trees"
+filename = "BotanyTrees-1.16.5-3.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3348/576/BotanyTrees-1.16.5-3.0.6.jar"
+hash-format = "sha1"
+hash = "2896ad4043dbbb337c7b623996f974ff994bb6df"
+
+[update]
+[update.curseforge]
+file-id = 3348576
+project-id = 411357

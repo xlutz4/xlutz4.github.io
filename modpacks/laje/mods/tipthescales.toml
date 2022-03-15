@@ -1,0 +1,13 @@
+name = "TipTheScales"
+filename = "TipTheScales-1.16.5-3.0.0.15.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3348/548/TipTheScales-1.16.5-3.0.0.15.jar"
+hash-format = "sha1"
+hash = "818dd8e4afc9686c4f50a3dcdf616104eb91f294"
+
+[update]
+[update.curseforge]
+file-id = 3348548
+project-id = 282313
