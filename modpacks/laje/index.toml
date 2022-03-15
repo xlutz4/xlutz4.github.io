@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "external/OptiFine_1.16.5_HD_U_G8.jar"
+hash = "3c76bc90ed44bce567cee7c20eb2c4361926f23a86e5367d596f6e624d0b494f"
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "1771ee6311c039866a657ede4cd6bc4e7e7044095ba32283c7cfd704600e5e55"
 metafile = true
@@ -148,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.toml"
 hash = "466641af19e51e3514a6926c2eb91107cb52b8ce2200fe732974c80ed455d0b4"
+metafile = true
+
+[[files]]
+file = "mods/optifine.toml"
+hash = "41bc1c0ba57a19875614ab4ed0bc9fec103caed045af0c5c92fc656b96c8c443"
 metafile = true
 
 [[files]]

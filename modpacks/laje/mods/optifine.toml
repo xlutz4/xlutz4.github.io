@@ -1,0 +1,9 @@
+name = "OptiFine"
+filename = "OptiFine_1.16.5_HD_U_G8.jar"
+side = "client"
+
+[download]
+url = "https://xlutz4.github.io/modpacks/laje/external/OptiFine_1.16.5_HD_U_G8.jar"
+
+hash-format = "sha256"
+hash = "3C76BC90ED44BCE567CEE7C20EB2C4361926F23A86E5367D596F6E624D0B494F"
