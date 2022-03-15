@@ -181,11 +181,6 @@ hash = "8f72255793f7ddef6a2c773cdb2fffa0ab5947f47c97a42de51f5795a3a2776a"
 metafile = true
 
 [[files]]
-file = "mods/reauth.toml"
-hash = "2db464be36913bd0d8e130836d95fa532f2f199c6d1b9bf8087d3c5857c0dc68"
-metafile = true
-
-[[files]]
 file = "mods/super-saturation.toml"
 hash = "9744d0c180f3a5f6d926810fcc12748cf7dc9e54f70e51ef81ed557e19b93a7b"
 metafile = true
